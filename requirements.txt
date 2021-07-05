@@ -1,0 +1,8 @@
+cffi==1.14.5
+eth-hash==0.3.1
+eth-typing==2.2.2
+pycparser==2.20
+pycryptodome==3.10.1
+six==1.16.0
+tinyec==0.3.1
+toolz==0.11.1
